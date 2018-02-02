@@ -1,0 +1,23 @@
+{
+  "name": "mysqlconector",
+  "version": "0.0.0",
+  "description": "Uso del driver MySQLConnect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro347/mysqlconector.git"
+  },
+  "keywords": [
+    "mysql",
+    "conexion"
+  ],
+  "author": "Ayrton L. Flores Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandro347/mysqlconector/issues"
+  },
+  "homepage": "https://github.com/leandro347/mysqlconector#readme"
+}
