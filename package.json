@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/leandro347/mysqlconector/issues"
   },
-  "homepage": "https://github.com/leandro347/mysqlconector#readme"
+  "homepage": "https://github.com/leandro347/mysqlconector#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
